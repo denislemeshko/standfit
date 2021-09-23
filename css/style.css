@@ -2271,7 +2271,7 @@ input:checked {
 
 /* *partners.html */
 .main-box {
-	background-image: url(/images/investors-bg.jpg);
+	background-image: url(../images/investors-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
