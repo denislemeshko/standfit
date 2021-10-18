@@ -1,0 +1,20 @@
+js
+id "myModal"
+id "myImg"
+id "img01"
+id "caption"
+
+html
+
+"close"
+"modal-content" id="img01"
+ id="caption"
+
+css
+
+#myImg
+.modal
+.modal-content, #caption
+
+.close
+
